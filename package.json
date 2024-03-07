@@ -1,6 +1,6 @@
 {
   "name": "uassetreader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reads UAsset Files and returns information as json",
   "main": "reader.js",
   "scripts": {
