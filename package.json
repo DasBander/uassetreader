@@ -13,5 +13,6 @@
     "reader"
   ],
   "author": "Marc Fraedrich",
+  "repository": "https://github.com/DasBander/uassetreader",
   "license": "MIT"
 }
