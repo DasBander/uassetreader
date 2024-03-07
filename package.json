@@ -1,0 +1,17 @@
+{
+  "name": "uassetreader",
+  "version": "1.0.0",
+  "description": "Reads UAsset Files and returns information as json",
+  "main": "reader.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "uasset",
+    "unreal",
+    "engine",
+    "reader"
+  ],
+  "author": "Marc Fraedrich",
+  "license": "MIT"
+}
