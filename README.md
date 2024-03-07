@@ -3,7 +3,7 @@
 Very basic approach to read UAsset Files in Node.js.
 
 It can return it's Engine Version, the Unreal Path, Asset Type and it's Dependencies. Currently works well with Unreal Engine 5.++ Assets.
-Older Assets doens't seem be be parsed very well.
+Older Assets doesn't seem to be parsed very well.
 
 
 # Usage
